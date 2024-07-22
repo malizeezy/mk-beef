@@ -1,0 +1,23 @@
+.hero-image{
+    height: 700px;
+    width: 1255px;
+}
+
+
+.don{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    text-align: 10px;
+    color:black
+}
+
+.list-unstyled{
+    margin-left:575px;
+}
